@@ -15,7 +15,7 @@ applications:
   - personality-insights-service
   - tradeoff-analytics-service
   - cloudant
-  name: nycschoolfinder
+  name: jobspersonalityfinder
   command: node app.js
   path: .
   memory: 512M
